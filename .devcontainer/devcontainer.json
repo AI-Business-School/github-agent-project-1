@@ -1,0 +1,29 @@
+{
+    "name": "Simple Landing Page",
+    "dockerComposeFile": "docker-compose.yml",
+    "service": "app",
+    "workspaceFolder": "/workspace",
+    "forwardPorts": [5500],
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot",
+                "GitHub.copilot-chat",
+                "ritwickdey.LiveServer",
+                "esbenp.prettier-vscode"
+            ],
+            "settings": {
+                "liveServer.settings.port": 5500,
+                "liveServer.settings.root": "/",
+                "editor.formatOnSave": true
+            }
+        }
+    },
+    "portsAttributes": {
+        "5500": {
+            "label": "Live Server",
+            "onAutoForward": "openPreview"
+        }
+    },
+    "postCreateCommand": "echo 'Project ready for development in GitHub Codespaces!'"
+}
