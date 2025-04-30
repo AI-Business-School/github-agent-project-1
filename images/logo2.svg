@@ -1,0 +1,5 @@
+<svg width="150" height="80" xmlns="http://www.w3.org/2000/svg">
+    <polygon points="75,10 140,30 110,70 40,70 10,30" fill="#33a852"/>
+    <circle cx="75" cy="40" r="20" fill="white"/>
+    <text x="75" y="45" font-family="Arial" font-size="14" text-anchor="middle" fill="#333">GLOBEX</text>
+</svg>

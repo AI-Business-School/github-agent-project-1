@@ -1,0 +1,5 @@
+<svg width="150" height="80" xmlns="http://www.w3.org/2000/svg">
+    <rect width="120" height="60" x="15" y="10" fill="#9b59b6" rx="5" ry="5"/>
+    <polygon points="75,20 100,35 100,55 75,70 50,55 50,35" fill="white"/>
+    <text x="75" y="60" font-family="Arial" font-size="12" text-anchor="middle" fill="white">MASSIVE</text>
+</svg>

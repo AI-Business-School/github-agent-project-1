@@ -1,0 +1,6 @@
+<svg width="150" height="80" xmlns="http://www.w3.org/2000/svg">
+    <rect width="130" height="60" x="10" y="10" fill="#f39c12" rx="30" ry="30"/>
+    <circle cx="45" cy="40" r="15" fill="white"/>
+    <circle cx="105" cy="40" r="15" fill="white"/>
+    <text x="75" y="45" font-family="Arial" font-size="14" text-anchor="middle" fill="white">UMBRELLA</text>
+</svg>
